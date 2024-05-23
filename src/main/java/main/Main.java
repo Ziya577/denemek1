@@ -14,6 +14,9 @@ public class Main {
         System.out.println("salam");
         System.out.println("salam");
         System.out.println("salam");
+        System.out.println("salam");
+        System.out.println("salam");
+        System.out.println("salam");
     }
 
     public static int test(int a) {
